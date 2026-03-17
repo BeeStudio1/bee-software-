@@ -1,0 +1,14 @@
+{
+  "dashboard": "لوحة التحكم",
+  "bot": "البوت",
+  "music": "الموسيقى",
+  "settings": "الإعدادات",
+  "startBot": "بدء البوت",
+  "stopBot": "إيقاف البوت",
+  "performance": "محلل الأداء",
+  "clock": "الساعة",
+  "mood": "المزاج",
+  "cpu": "CPU",
+  "ram": "RAM",
+  "fps": "FPS"
+}

@@ -1,0 +1,9 @@
+﻿appId: com.beestudio.bee
+productName: Bee Panel
+directories:
+  output: dist
+files:
+  - "**/*"
+win:
+  target:
+    - nsis

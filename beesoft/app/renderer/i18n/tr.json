@@ -1,0 +1,14 @@
+{
+  "dashboard": "Gösterge paneli",
+  "bot": "Bot",
+  "music": "Müzik",
+  "settings": "Ayarlar",
+  "startBot": "Botu başlat",
+  "stopBot": "Botu durdur",
+  "performance": "Performans analizörü",
+  "clock": "Saat",
+  "mood": "Ruh hali",
+  "cpu": "CPU",
+  "ram": "RAM",
+  "fps": "FPS"
+}

@@ -1,0 +1,14 @@
+{
+  "dashboard": "Cruscotto",
+  "bot": "Bot",
+  "music": "Musica",
+  "settings": "Impostazioni",
+  "startBot": "Avvia bot",
+  "stopBot": "Ferma bot",
+  "performance": "Analizzatore prestazioni",
+  "clock": "Orologio",
+  "mood": "Umore",
+  "cpu": "CPU",
+  "ram": "RAM",
+  "fps": "FPS"
+}

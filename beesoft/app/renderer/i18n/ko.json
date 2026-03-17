@@ -1,0 +1,14 @@
+{
+  "dashboard": "대시보드",
+  "bot": "봇",
+  "music": "음악",
+  "settings": "설정",
+  "startBot": "봇 시작",
+  "stopBot": "봇 중지",
+  "performance": "성능 분석기",
+  "clock": "시계",
+  "mood": "기분",
+  "cpu": "CPU",
+  "ram": "RAM",
+  "fps": "FPS"
+}

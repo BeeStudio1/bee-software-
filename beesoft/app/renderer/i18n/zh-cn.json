@@ -1,0 +1,14 @@
+{
+  "dashboard": "仪表板",
+  "bot": "机器人",
+  "music": "音乐",
+  "settings": "设置",
+  "startBot": "启动机器人",
+  "stopBot": "停止机器人",
+  "performance": "性能分析器",
+  "clock": "时钟",
+  "mood": "心情",
+  "cpu": "CPU",
+  "ram": "RAM",
+  "fps": "FPS"
+}

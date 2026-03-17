@@ -1,0 +1,14 @@
+{
+  "dashboard": "داشبورد",
+  "bot": "ربات",
+  "music": "موسیقی",
+  "settings": "تنظیمات",
+  "startBot": "شروع ربات",
+  "stopBot": "توقف ربات",
+  "performance": "تحلیلگر عملکرد",
+  "clock": "ساعت",
+  "mood": "حالت روحی",
+  "cpu": "CPU",
+  "ram": "RAM",
+  "fps": "FPS"
+}

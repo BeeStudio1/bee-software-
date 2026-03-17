@@ -1,0 +1,14 @@
+{
+  "dashboard": "ダッシュボード",
+  "bot": "ボット",
+  "music": "音楽",
+  "settings": "設定",
+  "startBot": "ボットを起動",
+  "stopBot": "ボットを停止",
+  "performance": "パフォーマンスアナライザー",
+  "clock": "時計",
+  "mood": "気分",
+  "cpu": "CPU",
+  "ram": "RAM",
+  "fps": "FPS"
+}

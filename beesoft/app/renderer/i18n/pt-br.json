@@ -1,0 +1,14 @@
+{
+  "dashboard": "Painel de controle",
+  "bot": "Bot",
+  "music": "Música",
+  "settings": "Configurações",
+  "startBot": "Iniciar bot",
+  "stopBot": "Parar bot",
+  "performance": "Analisador de desempenho",
+  "clock": "Relógio",
+  "mood": "Humor",
+  "cpu": "CPU",
+  "ram": "RAM",
+  "fps": "FPS"
+}

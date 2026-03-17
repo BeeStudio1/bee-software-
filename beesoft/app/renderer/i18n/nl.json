@@ -1,0 +1,14 @@
+{
+  "dashboard": "Dashboard",
+  "bot": "Bot",
+  "music": "Muziek",
+  "settings": "Instellingen",
+  "startBot": "Bot starten",
+  "stopBot": "Bot stoppen",
+  "performance": "Prestatieanalysator",
+  "clock": "Klok",
+  "mood": "Stemming",
+  "cpu": "CPU",
+  "ram": "RAM",
+  "fps": "FPS"
+}

@@ -1,0 +1,14 @@
+{
+  "dashboard": "แดชบอร์ด",
+  "bot": "บอท",
+  "music": "เพลง",
+  "settings": "การตั้งค่า",
+  "startBot": "เริ่มบอท",
+  "stopBot": "หยุดบอท",
+  "performance": "ตัววิเคราะห์ประสิทธิภาพ",
+  "clock": "นาฬิกา",
+  "mood": "อารมณ์",
+  "cpu": "CPU",
+  "ram": "RAM",
+  "fps": "FPS"
+}

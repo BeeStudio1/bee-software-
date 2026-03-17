@@ -1,0 +1,14 @@
+{
+  "dashboard": "לוח בקרה",
+  "bot": "בוט",
+  "music": "מוזיקה",
+  "settings": "הגדרות",
+  "startBot": "התחל בוט",
+  "stopBot": "עצור בוט",
+  "performance": "מנתח ביצועים",
+  "clock": "שעון",
+  "mood": "מצב רוח",
+  "cpu": "CPU",
+  "ram": "RAM",
+  "fps": "FPS"
+}

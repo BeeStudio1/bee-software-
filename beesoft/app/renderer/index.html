@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bee Panel</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #f0f0f0; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .header { text-align: center; margin-bottom: 20px; }
+        .tabs { display: flex; justify-content: center; margin-bottom: 20px; }
+        .tab { padding: 10px 20px; cursor: pointer; background: #ddd; border: 1px solid #ccc; }
+        .tab.active { background: #fff; }
+        .content { background: #fff; padding: 20px; border: 1px solid #ccc; }
+        .clock { font-size: 2em; text-align: center; font-family: monospace; background: #000; color: #0f0; padding: 10px; border-radius: 10px; }
+        .performance { margin-top: 20px; }
+        .mood { text-align: center; font-size: 1.5em; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1 id="title">Bee Panel</h1>
+        </div>
+        <div class="tabs">
+            <div class="tab active" data-tab="dashboard">Dashboard</div>
+            <div class="tab" data-tab="bot">Bot</div>
+            <div class="tab" data-tab="music">Musique</div>
+            <div class="tab" data-tab="performance">Performances</div>
+            <div class="tab" data-tab="clock">Horloge</div>
+        </div>
+        <div class="content">
+            <div id="dashboard" class="tab-content">
+                <h2>Tableau de bord</h2>
+                <div class="mood" id="mood">Humeur: 😊 Heureux</div>
+            </div>
+            <div id="bot" class="tab-content" style="display:none;">
+                <h2>Bot Discord</h2>
+                <button id="startBot">Démarrer le bot</button>
+                <button id="stopBot">Arrêter le bot</button>
+                <div id="botStatus">Status: arrêté</div>
+                <div id="botLogs"></div>
+            </div>
+            <div id="music" class="tab-content" style="display:none;">
+                <h2>Musique</h2>
+                <div id="musicList"></div>
+            </div>
+            <div id="performance" class="tab-content" style="display:none;">
+                <h2>Analyseur de performances</h2>
+                <div class="performance">
+                    <p>CPU: <span id="cpu">0</span>%</p>
+                    <p>RAM: <span id="ramUsed">0</span>MB / <span id="ramTotal">0</span>MB</p>
+                    <p>FPS: <span id="fps">60</span></p>
+                </div>
+            </div>
+            <div id="clock" class="tab-content" style="display:none;">
+                <h2>Horloge rétro TouchWiz S3</h2>
+                <div class="clock" id="retroClock">00:00:00</div>
+            </div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
